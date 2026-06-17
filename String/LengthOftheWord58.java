@@ -1,3 +1,4 @@
+package String;
 public class LengthOftheWord58 {
     public int lengthOfLastWord(String s) {
       int count=0;
