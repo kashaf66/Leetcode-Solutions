@@ -1,4 +1,4 @@
-package String;
+
 
 public class ValidPalindrome125 {
     ublic boolean isPalindrome(String s) {
