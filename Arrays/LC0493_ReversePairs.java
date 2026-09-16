@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.ArrayList;
 
 public class LC0493_ReversePairs {

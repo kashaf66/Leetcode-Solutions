@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD_31_NextPermutation {
     public void nextPermutation(int[] nums) {
 

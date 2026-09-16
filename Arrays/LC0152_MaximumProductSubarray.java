@@ -1,3 +1,4 @@
+package Arrays;
 public class LC0152_MaximumProductSubarray {
     public int maxProduct(int[] nums) {
     int n =nums.length;

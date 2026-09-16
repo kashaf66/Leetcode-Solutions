@@ -1,3 +1,4 @@
+package Arrays;
 public class LC258_AddDigits {
 
      public int addDigits(int num) {

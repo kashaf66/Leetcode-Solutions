@@ -1,3 +1,4 @@
+package Arrays;
 public class LC0645_SetMismatch {
     public int[] findErrorNums(int[] nums) {
         int n=nums.length;

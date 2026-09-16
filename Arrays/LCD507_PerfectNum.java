@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD507_PerfectNum {
 public boolean checkPerfectNumber(int num) {
     if (num==1){

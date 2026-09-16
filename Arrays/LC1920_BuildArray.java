@@ -1,3 +1,4 @@
+package Arrays;
 public class LC1920_BuildArray {
     public int[] buildArray(int[] nums) {
 

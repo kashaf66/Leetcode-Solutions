@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD_2149_RearrangeArray {
     public int[] rearrangeArray(int[] nums) {
       int []  ans=new int[nums.length];

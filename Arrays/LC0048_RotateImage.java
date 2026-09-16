@@ -1,3 +1,4 @@
+package Arrays;
 public class LC0048_RotateImage {
     public void rotate(int[][] matrix){
         int n=matrix.length;

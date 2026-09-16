@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD75_SortColors {
     public void sortColors(int[] nums) {
         int n=nums.length;

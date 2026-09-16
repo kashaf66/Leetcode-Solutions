@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD263_UglyNum {
    public boolean isUgly(int n){
     if(n<=0){

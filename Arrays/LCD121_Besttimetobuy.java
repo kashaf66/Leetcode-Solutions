@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD121_Besttimetobuy&sell {
     class Solution {
     public int maxProfit(int[] prices) {

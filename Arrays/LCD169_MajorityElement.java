@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD169_MajorityElement {
     public int majorityElement(int[] nums) {
         int n =nums.length;

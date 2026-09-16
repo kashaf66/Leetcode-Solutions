@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD_905_SortArraybyParity {
     public int[] sortArrayByParity(int[] nums) {
 

@@ -1,3 +1,4 @@
+package Arrays;
 public class LCD9_Palindrome {
     public boolean isPalindrome(int x){
       if(x<0){
